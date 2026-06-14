@@ -40,12 +40,12 @@ The frontend can be bypassed, modified, or replayed by a user, so the server mus
 
 ## Environment Variables
 
-Do **not** expose your Turnstile secret key.
+Do **not** expose your Turnstile secret key:
 
 ```env
 TURNSTILE_SECRET_KEY=your_private_secret_key
 ```
-Nor 
+Nor:
 
 ```env
 TURNSTILE_SITE_KEY=your_public_site_key
