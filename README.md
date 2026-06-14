@@ -4,6 +4,9 @@ Robbie Bizzle is a custom Cloudflare Turnstile integration for **HaloArchives**,
 
 This setup adds Cloudflare Turnstile bot protection to a HaloArchives form using an explicit frontend widget render and backend token verification.
 
+<img width="500" height="500" alt="robbieb" src="https://github.com/user-attachments/assets/dadb875b-c1a7-4fbd-8004-304d2fd37df3" />
+
+
 ---
 
 ## What is Robbie Bizzle?
