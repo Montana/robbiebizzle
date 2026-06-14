@@ -141,13 +141,12 @@ Robbie B makes logs easier to identify and keeps the verification flow tied to t
 
 ---
 
-## Recommended Production Checklist
+## Deploying Robbie B
 
 Before deploying Robbie Bizzle to production:
 
 * Add the real Cloudflare Turnstile site key
 * Add the real Cloudflare Turnstile secret key
-* Keep `.env` out of Git
 * Verify tokens server-side
 * Check the `action` value on the backend
 * Log failed verification attempts
